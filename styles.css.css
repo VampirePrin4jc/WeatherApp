@@ -1,0 +1,26 @@
+.card {
+  text-align: center;
+}
+.cities {
+  font-weight: 500;
+}
+.box1 h3 {
+  font-size: 69px;
+}
+.box1 {
+  padding: 20px, 20px;
+}
+.week {
+  background-color: rgb(217, 205, 228);
+}
+
+p {
+  font-size: 25px;
+}
+
+p2 {
+  font-size: 25px;
+}
+span#temperature.temperature {
+  font-size: 60px;
+}
