@@ -24,3 +24,7 @@ p2 {
 span#temperature.temperature {
   font-size: 60px;
 }
+div.link {
+  text-align: center;
+  display: block;
+}
